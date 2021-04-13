@@ -1,1 +1,1 @@
-Hallo my name is *Niklas* from **Colonge**!
+Hallo my name is *Niklas* from **Cologne**!
